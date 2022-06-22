@@ -9,15 +9,27 @@ Determine the number of retiring employees per title and identify employees who 
 
 -	During this analysis over 90,000 employees are projected to retire.
 -	Two very valuable positions (Senior Engineer & Senior Staff) have the most retirements coming up.
+
+
+
 -	The management department does not have an eligible retiree for the mentorship program.
+
+
+
 -	There is a stark difference between the amount of of overall staff entering retirement and the amount of staff that is eligible for the mentorship program.
 -	With the retirement_titles table we can see every individual eligible for retirement and how long they have worked at each position over the course of their career.
 -	The unique titles table that we created is showing the most recent title for employees of retirement age.
 -	Our retirement_titles show us many of the employees are retirement age (57,668/90,398 = 64%) have senior titles.
+
+
+
+
+
 -	The final part of our project shows mentorship eligibility, if you look at the head of the new csv - you can see that most of these employees have senior titles.
 
 Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
 
+![QuickDBD-PH-NicoleDB](https://user-images.githubusercontent.com/103701561/174915117-4ec8d793-8ff5-447b-97ba-d2fc06535cc4.png)
 
 
 
