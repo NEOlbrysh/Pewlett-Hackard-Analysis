@@ -10,22 +10,21 @@ Determine the number of retiring employees per title and identify employees who 
 -	During this analysis over 90,000 employees are projected to retire.
 -	Two very valuable positions (Senior Engineer & Senior Staff) have the most retirements coming up.
 
+![2022-06-21 (5)](https://user-images.githubusercontent.com/103701561/174917764-48bd8422-a190-44ae-baf2-dbdfc424d1e7.png)
 
 
--	The management department does not have an eligible retiree for the mentorship program.
+-	The management department does not have an eligible retiree for the mentorship program. There is a stark difference between the amount of of overall staff entering retirement and the amount of staff that is eligible for the mentorship program.
+
+![2022-06-21 (4)](https://user-images.githubusercontent.com/103701561/174917771-66b06bc3-a602-49e3-97c6-628a886b404e.png)
 
 
-
--	There is a stark difference between the amount of of overall staff entering retirement and the amount of staff that is eligible for the mentorship program.
 -	With the retirement_titles table we can see every individual eligible for retirement and how long they have worked at each position over the course of their career.
--	The unique titles table that we created is showing the most recent title for employees of retirement age.
--	Our retirement_titles show us many of the employees are retirement age (57,668/90,398 = 64%) have senior titles.
 
 
 
 
 
--	The final part of our project shows mentorship eligibility, if you look at the head of the new csv - you can see that most of these employees have senior titles.
+
 
 Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
 
@@ -48,3 +47,14 @@ Overall, the analysis required was multi-part. Initial information suggests that
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 No, we have 1,940 employees who are eligible to participate in a mentorship program. 
 As we can see in the table below, there are not enough qualified employees for the mentorship program. With the low numbers of qualified mentors, the mentors would be stretched thin, considerably.
+
+
+
+
+
+
+
+
+
+
+![2022-06-21 (3)](https://user-images.githubusercontent.com/103701561/174917782-3340b84b-9e19-413d-a24f-330e6669d82f.png)
